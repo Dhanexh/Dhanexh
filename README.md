@@ -1,5 +1,5 @@
 
-<h1 align="left" id="macropower-title">Hi:wave: I'm Dhanesh</h1>
+<h1 align="left" id="macropower-title">Hi, I'm Dhanesh :wave: </h1>
 <h3 align="left">I'm a Java Developer and I do SpringBoot Backend systems.
   <br>
 And I'm currently learning Full Stack Development.</h3>
