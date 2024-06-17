@@ -29,7 +29,8 @@ And I'm currently learning Full Stack Development.</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,github,git,html,css,bootstrap,javascript,typescript,angular,react,hibernate,aws," /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,github,git,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,javascript,typescript,angular,react,hibernate,aws" /><br>
 </div>
 
 <h3 align="left">Connect with me</h3>
