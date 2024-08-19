@@ -20,7 +20,7 @@ And I'm currently learning Full Stack Development.</h3>
 </div>
 -
 
-- :office: &nbsp;I'm currently working at **Geekster**
+- :office: &nbsp;I'm currently working at **Cp Technologies**
 - :seedling: &nbsp;I’m currently working on my **SpringBoot Projects**
 - :speech_balloon: &nbsp;I like to talk about **Web Development**
 - :book: &nbsp;Learn more about my projects on my **[github](https://github.com/Dhanexh/)**
