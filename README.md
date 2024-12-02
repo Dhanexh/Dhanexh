@@ -1,8 +1,8 @@
 
 <h1 align="left" id="macropower-title">Hi, I'm Dhanesh :wave: </h1>
-<h3 align="left">I'm a Java Developer and I do SpringBoot Backend systems.
+<h3 align="left">I'm a Gen AI Developer and I do FullStack webs.
   <br>
-And I'm currently learning Full Stack Development.</h3>
+And I'm currently learning AI/Data Science.</h3>
 
 <div align="left"> 
   <a href="mailto:dhanesharulbasker@gmail.com">
@@ -21,7 +21,7 @@ And I'm currently learning Full Stack Development.</h3>
 -
 
 - :office: &nbsp;I'm currently working at **Cp Technologies**
-- :seedling: &nbsp;I’m currently working on my **SpringBoot Projects**
+- :seedling: &nbsp;I’m currently working on my **AI Projects**
 - :speech_balloon: &nbsp;I like to talk about **Web Development**
 - :book: &nbsp;Learn more about my projects on my **[github](https://github.com/Dhanexh/)**
 - :mailbox: &nbsp;Ask me anything on my **[mail](dhanesharulbasker@gmail.com)**
