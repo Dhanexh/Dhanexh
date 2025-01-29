@@ -29,8 +29,8 @@ And I'm currently learning AI/Data Science.</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,flask,mysql,postgres,github,git,html," /><br>
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,javascript,typescript,react,angular,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,flask,mysql,postgres,github,git," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,heroku,aws" /><br>
 </div>
 
 <h3 align="left">Connect with me</h3>
