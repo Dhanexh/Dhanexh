@@ -1,8 +1,8 @@
 
 <h1 align="left" id="macropower-title">Hi, I'm Dhanesh :wave: </h1>
-<h3 align="left">I'm a Gen AI Developer and I do FullStack webs.
+<h3 align="left">I'm a AI Developer and I do FullStack webs.
   <br>
-And I'm currently learning AI/Data Science.</h3>
+And I'm currently learning AI in Devlopment.</h3>
 
 <div align="left"> 
   <a href="mailto:dhanesharulbasker@gmail.com">
