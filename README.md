@@ -1,8 +1,8 @@
 
 <h1 align="left" id="macropower-title">Hi, I'm Dhanesh :wave: </h1>
-<h3 align="left">I'm a AI Developer and I do FullStack webs.
+<h3 align="left">I'm a Gen AI Developer and I do FullStack webs.
   <br>
-And I'm currently learning AI in Devlopment.</h3>
+And currently into AI/ML</h3>
 
 <div align="left"> 
   <a href="mailto:dhanesharulbasker@gmail.com">
@@ -20,10 +20,9 @@ And I'm currently learning AI in Devlopment.</h3>
 </div>
 -
 
-- :office: &nbsp;I'm currently working at **Cp Technologies**
-- :seedling: &nbsp;I’m currently working on my **AI Projects**
-- :speech_balloon: &nbsp;I like to talk about **Web Development**
-- :book: &nbsp;Learn more about my projects on my **[github](https://github.com/Dhanexh/)**
+- :office: &nbsp;I'm currently working at **Cp Tech**
+- :seedling: &nbsp;An working on my **AI Projects**
+- :speech_balloon: &nbsp;I like to talk about **Gen AI**
 - :mailbox: &nbsp;Ask me anything on my **[mail](dhanesharulbasker@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhanexh/)**
 
