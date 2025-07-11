@@ -21,16 +21,41 @@ And currently into AI/ML</h3>
 -
 
 - :office: &nbsp;I'm currently working at **Cp Tech**
-- :seedling: &nbsp;An working on my **AI Projects**
 - :speech_balloon: &nbsp;I like to talk about **Gen AI**
-- :mailbox: &nbsp;Ask me anything on my **[mail](dhanesharulbasker@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/dhanexh/)**
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,java,flask,mysql,postgres,github,git," /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,heroku,aws" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,heroku,aws" /><br> -->
 </div>
+
+
+<h3 align="left">AI Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-343434?style=for-the-badge&logo=fluentd&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/AI%2FML-06b6d4?style=for-the-badge&logo=deeplearning.ai&logoColor=white" alt="AI/ML" />
+  <br>
+  <img src="https://img.shields.io/badge/Machine%20Learning-10b981?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-f43f5e?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-f59e0b?style=for-the-badge&logo=huggingface&logoColor=black" alt="NLP" />
+<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-0072C6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAI-FF1493?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-111111?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" /> -->
+</p>
+
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">  
