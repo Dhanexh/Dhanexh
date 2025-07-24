@@ -1,6 +1,6 @@
 
 <h1 align="left" id="macropower-title">Hi, I'm Dhanesh :wave: </h1>
-<h3 align="left">I'm a Gen AI Developer and I do FullStack webs.
+<h3 align="left">I'm a Gen AI Dev and I do Backend webs.
   <br>
 And currently into AI/ML</h3>
 
@@ -26,7 +26,7 @@ And currently into AI/ML</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,java,flask,mysql,postgres,github,git," /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,postgres,mysql,github,git," /><br>
 <!--     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,heroku,aws" /><br> -->
 </div>
 
